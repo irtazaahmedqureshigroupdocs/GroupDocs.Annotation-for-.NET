@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 1,
+    "AnnotationId": 2,
+    "UserId": 1,
+    "Guid": "1aba53a3-7184-48f6-ae7b-52a29fdc1d2f",
+    "Message": "xxx",
+    "RepliedOn": "2016-06-01T12:35:14.7461901Z",
+    "ParentReplyId": 0
+  },
+  {
+    "Id": 2,
+    "AnnotationId": 3,
+    "UserId": 1,
+    "Guid": "e9d9143c-8c9b-4675-8b78-030ff2ded400",
+    "Message": "This is very important",
+    "RepliedOn": "2016-06-03T06:25:42.1093154Z",
+    "ParentReplyId": 0
+  }
+]  {
+    "Id": 3,
+    "AnnotationId": 17,
+    "UserId": 1,
+    "Guid": "9472bf35-1fe9-46d1-8599-1e0223a57f90",
+    "Message": "78px",
+    "RepliedOn": "2016-06-03T06:43:40.2349766Z",
+    "ParentReplyId": 0
+  }
+]
