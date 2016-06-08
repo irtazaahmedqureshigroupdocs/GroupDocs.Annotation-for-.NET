@@ -1,6 +1,8 @@
 # Showcases
 
-The GroupDocs.Annotation, users can seek the knowledge about implementation of the project and make the changes according to their needs. Also the users can enjoy the free scripts and skins of the Annotation front-ends for their own projects. The list of the published front-ends has been written below: 
+In GroupDocs.Annotation 3.x the Front-End has been disintegrated from the API and it has become a UI-Less back end API. Therefore, the front-end has been published as open sourced sample project. The users can seek the knwoledge about implementation of the project and make the changes according to their needs/requirements.
+
+The list of the published front-ends has been written below: 
 
 
 Directory | Description
